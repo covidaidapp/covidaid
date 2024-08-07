@@ -94,7 +94,7 @@
         "loading": "Gegevens verzenden naar map...",
         "error": "Fout bij opslaan informatie",
         "success": "Uw formulier is succesvol ingediend",
-        "successExtra": "We're in the process of verifying your submission and will make it visible on the map shortly. Thank you for helping make aid accessible across the world!"
+        "successExtra": "We zijn bezig met het verifiëren van je uitwerking en zullen deze binnenkort zichtbaar maken op de kaart. Bedankt voor het helpen om hulp wereldwijd toegankelijk te maken!"
       }
     },
     "errors": {
