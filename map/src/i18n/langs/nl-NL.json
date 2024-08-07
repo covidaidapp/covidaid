@@ -43,7 +43,7 @@
     "screen": {
       "title": "Voeg informatie toe aan deze kaart",
       "information": {
-        "acceptedInformation": "At the moment, we are including organizations providing region-specific aid and assistance (food, shelter, oxygen cylinders, donations, etc.).",
+        "acceptedInformation": "Op dit moment zijn er ook organisaties die regionale hulp en bijstand verlenen (voedsel, onderdak, zuurstofcylinders, donaties, enz.).",
         "moreInformation": "We aren't able to accept information directly about individuals offering aid for safety reasons, but please contact us at {contactEmail} if you'd like to help.",
         "intro": "Vul het formulier hieronder in om de informatie toe te voegen. We zullen u daarna om locatie en contactgegevens vragen.",
         "form": {
@@ -157,7 +157,7 @@
     "support": "Ondersteuning afgestemd op specifieke kwetsbare groepen, zoals daklozen, mensen die gevaar lopen door huiselijk misbruik, etc...",
     "network": "Voordelen van netwerken om hulp te bieden, bijvoorbeeld tussen wederzijdse hulporganisaties",
     "supplies": "Bevoorraden, behalve voedsel of medicijnen,",
-    "vaccine": "Verified vaccination site",
+    "vaccine": "Geverifieerde vaccinatiesite",
     "other": "Iets anders niet in deze lijst"
   },
   "markerTypes": {
